@@ -30,3 +30,16 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+
+This template should be used in all of your organization's repositories and be customized by the maintainers. The CONTRIBUTING.md file communicates expectations with contributors about how they can help contribute to the project.
+
+The CONTRIBUTING.md file should be customized for each project as much as possible to be clear and helpful. If contributors aren't sure what to do, their contributions won't be as useful to the project. This often results in inconsistent contributions and longer than needed review time from maintainers before merging.
+
+If you're looking for inspiration, here are some great examples of CONTRIBUTING.md files from notable projects. ✨
+
+    Electron
+    Atom
+    freeCodeCamp
+    Bitcoin
+    facebook/react links out to separate documentation, but still gives the same important information
+    Microsoft/sqlopsstudio
